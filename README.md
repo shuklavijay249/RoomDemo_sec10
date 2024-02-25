@@ -1,5 +1,5 @@
-Working With Room Short Note
-Android Room is a ORM(object relational mapping) library created for SQLite. SQLite is the database management system we use to create databases in Android projects.
+**Working With Room Short Note
+**Android Room is a ORM(object relational mapping) library created for SQLite. SQLite is the database management system we use to create databases in Android projects.
 
 Before 2017, we had to write a lot of complex codes for data base operations. But now, Room recognises our requirements (considering annotations) and generates most of the codes(in byte code format/class files) for us.
 
